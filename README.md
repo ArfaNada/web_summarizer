@@ -7,7 +7,7 @@ This project is a Python-based tool that scrapes textual content from a webpage 
 * **Python**
 * **BeautifulSoup** – Web scraping and HTML parsing
 * **Hugging Face Transformers** – Text summarization using pre-trained LLMs
-* **Google Colab** – Notebook-based execution environment
+* **Google Colab or Kaggle** – Notebook-based execution environment
 
 ## 🚀 How It Works
 
